@@ -1,4 +1,4 @@
-declare @x int = 20
+declare @x int = 20 
 while @x>0
 begin
 print replicate('* ',@x)
