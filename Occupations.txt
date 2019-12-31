@@ -1,4 +1,4 @@
-select
+select 
     min(doctor) d, min(professor) p, min(singer) s, min(actor) a
     from 
     (
